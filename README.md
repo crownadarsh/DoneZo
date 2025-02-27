@@ -36,7 +36,6 @@ cd backend
 🛠️ **Start Backend:**
 ```sh
 cd backend
-mvn spring-boot:run
 mvn install
 mvn spring-boot:run
 ```
@@ -50,7 +49,7 @@ Copy
 Edit
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 📜 API Endpoints  
 Method	Endpoint	Description  
