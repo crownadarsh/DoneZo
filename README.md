@@ -23,10 +23,7 @@ A simple and efficient task management application built using Spring Boot and R
 
 💻 Installation & Setup  
 1️⃣ Clone the Repository  
-```
-sh
-Copy
-Edit
+```sh
 git clone https://github.com/crownadarsh/DoneZo.git
 cd DoneZo
 ```
