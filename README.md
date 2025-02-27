@@ -3,7 +3,9 @@ A simple and efficient task management application built using Spring Boot and R
 
 🚀 Features
 ✅ User authentication & authorization
+
 ✅ Create, update, and delete tasks
+
 ✅ Set task priorities and deadlines
 ✅ Mark tasks as complete or pending
 ✅ Responsive UI for web and mobile
